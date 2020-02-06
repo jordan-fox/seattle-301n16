@@ -13,7 +13,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Application Middleware
-app.use(express.urlencoded());
+app.use(express.urlencoded({ extended: true }));
 app.use(methodOverride('_method'));
 
 // Set the view engine for server-side templating

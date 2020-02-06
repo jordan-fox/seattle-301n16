@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3000;
 
 // Express middleware
 // Utilize ExpressJS functionality to parse the body of the request
-app.use(express.urlencoded());
+app.use(express.urlencoded({ extended: true }));
 // Specify a directory for static resources
 app.use(express.static('./public'));
 

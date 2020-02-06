@@ -39,6 +39,7 @@ As a result of completing lecture 11 of Code 301, students will:
   - Repeating of code was seen as good and bad
   - "I found lectures not especially helpful as I tend to find other resources to help me out"
     - ^ Good and Bad
+- Some concerns about the final and being ready for 401
 - Mixed feelings on pair programming
   - "I can see the value of it, but it doesn't work for me" (huh?)
 - More rubric insights, grading solidarity, inline feedback wanted
